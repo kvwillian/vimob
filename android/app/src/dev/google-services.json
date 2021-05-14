@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "54540045386",
+    "firebase_url": "https://mega-vimob-dev.firebaseio.com",
+    "project_id": "mega-vimob-dev",
+    "storage_bucket": "mega-vimob-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54540045386:android:5e05e95b2a23f95c",
+        "android_client_info": {
+          "package_name": "br.com.mega.vimob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54540045386-d15e8u4a8ctmpbvnothh78jgkd2jd96o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtMbBRUnv5EleX9eszj9xWzrSFrbY3Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54540045386-d15e8u4a8ctmpbvnothh78jgkd2jd96o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54540045386-dgi3shpn1sromjg7684p07vdqtt0nm52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.mega.vimob"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54540045386:android:5d9ad20053b7647f6deab3",
+        "android_client_info": {
+          "package_name": "br.com.mega.vimobflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54540045386-d15e8u4a8ctmpbvnothh78jgkd2jd96o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtMbBRUnv5EleX9eszj9xWzrSFrbY3Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54540045386-d15e8u4a8ctmpbvnothh78jgkd2jd96o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54540045386-dgi3shpn1sromjg7684p07vdqtt0nm52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.mega.vimob"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,120 @@
+name: vimob
+description: A new Flutter project.
+
+version: 1.0.68+4194378
+
+environment:
+  sdk: ">=2.5.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  package_info: ^0.4.0+18 #https://pub.dev/packages/package_info
+  provider: ^4.0.4 #https://pub.dev/packages/provider
+  rxdart: ^0.23.1 #https://pub.dev/packages/rxdart
+  intl: ^0.16.0 #https://pub.dev/packages/intl
+  cached_network_image: ^2.0.0 #https://pub.dev/packages/cached_network_image
+  photo_view: ^0.10.2 #https://pub.dev/packages/photo_view
+  carousel_slider: ^2.3.1 #https://pub.dev/packages/carousel_slider
+  cpf_cnpj_validator: ^1.0.5 #https://github.com/leonardocaldas/flutter-cpf-cnpj-validator
+  flutter_svg: ^0.19.0 #https://pub.dev/packages/flutter_svg
+  flutter_masked_text: ^0.8.0 #https://pub.dev/packages/flutter_masked_text
+  connectivity: ^0.4.8+1 #https://pub.dev/packages/connectivity
+  webview_media: ^0.1.2 #https://pub.dev/packages/webview_media
+  # webview_flutter: ^1.0.5
+  video_player: ^0.10.8+1 #https://pub.dev/packages/video_player
+  flushbar: ^1.10.4 #https://pub.dev/packages/flushbar
+  qr_code_scanner: ^0.0.13 #https://pub.dev/packages/qr_code_scanner
+  url_launcher: ^5.4.2 #https://pub.dev/packages/url_launcher
+  image_picker: ^0.6.7+12 #https://pub.dev/packages/image_picker
+  google_fonts: ^0.3.9 #https://pub.dev/packages/google_fonts
+  file_picker: ^1.4.3+2 #https://pub.dev/packages/file_picker
+  flutter_downloader: ^1.5.2 #https://pub.dev/packages/flutter_downloader#-readme-tab-
+  jiffy: ^3.0.1 #https://pub.dev/packages/jiffy
+  font_awesome_flutter: ^8.5.0 #https://pub.dev/packages/font_awesome_flutter
+  path_provider: ^1.6.0 #https://pub.dev/packages/path_provider
+  permission_handler: ^5.0.1+1 #https://pub.dev/packages/permission_handler
+  flutter_full_pdf_viewer: ^1.0.6 #https://pub.dev/packages/flutter_full_pdf_viewer
+  open_file: ^3.0.1 #https://pub.dev/packages/open_file
+  youtube_player_flutter: ^6.1.0+4 #https://pub.dev/packages/youtube_player_flutter
+  share_extend: ^1.1.1 #https://pub.dev/packages/share_extend
+  collection: ^1.14.12 #https://pub.dev/packages/collection
+  flutter_local_notifications: ^3.0.1 #https://pub.dev/packages/flutter_local_notifications
+  search_cep: ^3.0.0+2
+  auto_size_text: ^2.1.0
+  http: 0.12.2
+
+  firebase_messaging: ^7.0.3 #https://pub.dev/packages/firebase_messaging
+  cloud_firestore: ^0.14.1+3 #https://pub.dev/packages/cloud_firestore
+  firebase_auth: ^0.18.1+2 #https://pub.dev/packages/firebase_auth
+  firebase_storage: ^5.0.0-dev.3 #https://pub.dev/packages/firebase_storage
+  firebase_core: ^0.5.0+1
+
+  platform: ^3.0.0-nullsafety.2
+  
+dependency_overrides:
+  intl: 0.17.0-nullsafety.2 #https://pub.dev/packages/intl
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  test: any
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/login/vimob.svg
+    - assets/login/app_login_background.jpg
+    - assets/login/cpf_card.svg
+    - assets/login/email.svg
+    - assets/login/password.svg
+    - assets/login/show_password.svg
+    - assets/login/send_email.svg
+    - assets/login/house.svg
+    - assets/login/calendar.svg
+    - assets/login/handshake.svg
+    - assets/login/app_logo.png
+    - assets/invite/qr_code.svg
+    - assets/invite/handshake.png
+    - assets/drawer/drawer_bg.png
+    - assets/drawer/qrcode_scan.svg
+    - assets/drawer/vimob_logo_grey.svg
+    - assets/clients/clients.svg
+    - assets/clients/buyer_default.png
+    - assets/common/grey_calendar.svg
+    - assets/common/filter_outline.svg
+    - assets/common/powered_by_mega.png
+    - assets/common/sem_imagem.png
+    - assets/common/splash_screen.png
+    - assets/proposals/proposals.svg
+    - assets/proposals/office_building.svg
+    - assets/proposals/land.svg
+    - assets/sales_mirror/sales_mirror.svg
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

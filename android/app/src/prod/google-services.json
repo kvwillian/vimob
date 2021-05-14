@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "893047396048",
+    "firebase_url": "https://mega-portaldevendas.firebaseio.com",
+    "project_id": "mega-portaldevendas",
+    "storage_bucket": "mega-portaldevendas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893047396048:android:5e05e95b2a23f95c",
+        "android_client_info": {
+          "package_name": "br.com.mega.vimob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893047396048-66s2dg3m1ciocmnsv6htieag2mvar00j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4b8otKVj6K59A6zyj-ZKNmYl-127cdv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893047396048-66s2dg3m1ciocmnsv6htieag2mvar00j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893047396048-1ga6ob6hkch44a1jsjclc20nbm52kvhm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.mega.vimob"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893047396048:android:2319768bf0b6dbafe2b0d5",
+        "android_client_info": {
+          "package_name": "br.com.mega.vimobflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893047396048-66s2dg3m1ciocmnsv6htieag2mvar00j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4b8otKVj6K59A6zyj-ZKNmYl-127cdv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893047396048-66s2dg3m1ciocmnsv6htieag2mvar00j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893047396048-1ga6ob6hkch44a1jsjclc20nbm52kvhm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.mega.vimob"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
